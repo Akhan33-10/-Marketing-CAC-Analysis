@@ -38,3 +38,6 @@ acquisition strategies using MySQL and Power BI.
 |---|---|
 | `cac_analysis.sql` | All SQL queries |
 | `CAC_Analysis_Dashboard.pbix` | Power BI dashboard |
+
+## 📸 Dashboard Preview
+![CAC Dashboard](Dashboard%201.png)
